@@ -1,0 +1,13 @@
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\bin\Debug\netcoreapp3.1\examen.exe
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\bin\Debug\netcoreapp3.1\examen.deps.json
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\bin\Debug\netcoreapp3.1\examen.runtimeconfig.json
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\bin\Debug\netcoreapp3.1\examen.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\bin\Debug\netcoreapp3.1\examen.dll
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\bin\Debug\netcoreapp3.1\examen.pdb
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\obj\Debug\netcoreapp3.1\examen.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\obj\Debug\netcoreapp3.1\examen.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\obj\Debug\netcoreapp3.1\examen.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\obj\Debug\netcoreapp3.1\examen.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\obj\Debug\netcoreapp3.1\examen.dll
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\obj\Debug\netcoreapp3.1\examen.pdb
+C:\Users\ricar\OneDrive\Escritorio\Visual Studio\examen\examen\obj\Debug\netcoreapp3.1\examen.genruntimeconfig.cache
